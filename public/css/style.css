@@ -1,0 +1,106 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+} 
+.monh1{
+    background-color: turquoise;
+    color: white;
+    border-left: blue solid 3px;
+}
+
+.monContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.btnCheck{
+    color: white;
+    right: 80px;
+    position: absolute;
+}
+
+.btnNote{
+    color: white;
+    right: 50px;
+    position: absolute;
+}
+
+.btnYes{
+    color: white;
+    right: 80px;
+    position: absolute;
+}
+
+.btnNo{
+    color: white;
+    right: 30px;
+    position: absolute;
+}
+
+.btnPoub{
+    color: white;
+    right: 20px;
+    position: absolute;
+}
+
+.mon1input{
+    margin: 30px;
+    width: 900px;
+    height: 30px;
+}
+
+.mon2input{
+    margin-left: 10px;
+    width: 600px;
+    height: 20px;
+}
+
+.monBouton{
+    margin: 30px;
+    height: 30px;
+    width: 80px;
+    color: white;
+    background-color: turquoise;
+    border: none;
+    border-radius: 20%;
+}
+
+.mes2boutons{
+    text-align: right;
+}
+
+.listecoul{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(96, 96, 197);
+    color: white;
+    position: relative;   
+}
+
+.green{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    position: relative;   
+}
+
+.listecoul2{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(96, 96, 197);
+    color: white;
+    position: relative;   
+}
+
+.rien{
+    display: none;
+}
+
+.rouge{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    position: relative;   
+}
